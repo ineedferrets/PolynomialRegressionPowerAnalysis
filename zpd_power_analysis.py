@@ -53,7 +53,7 @@ def learnerVideoScoreToScoreImprovement(x, effect_size):
 
 def olsRegression(x, y, formula):
     '''
-    Perform and ordinary least squares regression using the data and formula provided.
+    Perform an ordinary least squares regression using the data and formula provided.
     
     Keyword arguments:
     x, y -- Dependent and independent data (must be equal in length).
